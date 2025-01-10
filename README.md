@@ -1,1 +1,1 @@
-![LeetCode Stats](https://leetcard.dropps07.cool/dropps07?theme=radical&font=Poppins&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/dropps07?theme=radical&font=Poppins&ext=heatmap)] (https://leetcode.com/dropps07)
