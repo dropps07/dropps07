@@ -13,10 +13,3 @@
 </div>
 
 ---
-
-<details>
-<summary align="center"><b>> ✨ CLICK ME ✨</b></summary>
-
-<br/>
-
-<div >
