@@ -38,8 +38,6 @@ CS undergrad (class of 2028), contributing to open source and building an AI mea
 
 <div align="center">
 
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=dropps07&theme=tokyonight&hide_border=true" />
-
 <br/>
 
 <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/dropps07?theme=dark&font=Karla&ext=heatmap" />
