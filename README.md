@@ -5,12 +5,12 @@
 **Full-Stack Developer · Open-Source Contributor**
 
 I build web apps and APIs with TypeScript, Node.js, Java and Python.
-CS undergrad (class of 2028), contributing to open source and building an AI meal planner.
+CS undergrad (class of 2028), contributing to open source and building.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajey-awasthi07/)
-[![GitHub](https://img.shields.io/badge/GitHub-dropps07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dropps07)
-[![LeetCode](https://img.shields.io/badge/LeetCode-dropps07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/dropps07)
-[![X](https://img.shields.io/badge/X-dropps07-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dropps07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajey--awasthi07-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=1f2937)](https://www.linkedin.com/in/ajey-awasthi07/)
+[![GitHub](https://img.shields.io/badge/GitHub-dropps07-24292f?style=flat&logo=github&logoColor=white&labelColor=1f2937)](https://github.com/dropps07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-dropps07-FFA116?style=flat&logo=leetcode&logoColor=white&labelColor=1f2937)](https://leetcode.com/u/dropps07)
+[![X](https://img.shields.io/badge/X-dropps07-000000?style=flat&logo=x&logoColor=white&labelColor=1f2937)](https://x.com/dropps07)
 
 <img src="https://komarev.com/ghpvc/?username=dropps07&color=orange&label=Profile+Views&style=flat-square" alt="Profile Views" width="160"/>
 
@@ -22,7 +22,7 @@ CS undergrad (class of 2028), contributing to open source and building an AI mea
 
 <div align="center">
 
-![Tech stack](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,python,java,spring,mongodb,postgres,docker,aws,git,github,vercel)
+<img alt="Tech stack" src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,python,java,spring,mongodb,postgres,docker,aws,git,github,vercel&perline=8&theme=light" />
 
 </div>
 
