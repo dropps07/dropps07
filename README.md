@@ -1,20 +1,42 @@
 <div align="center">
+
+# Ajey Awasthi
+
+**Full-Stack Developer · Open-Source Contributor**
+
+I build web applications and APIs with TypeScript, Node.js, Java and Python.
+CS undergrad graduating in 2028, currently contributing to open source and building an AI meal planner.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajey-awasthi07/)
+[![GitHub](https://img.shields.io/badge/GitHub-dropps07-181717?style=flat&logo=github&logoColor=white)](https://github.com/dropps07)
+[![X](https://img.shields.io/badge/X-dropps07-000000?style=flat&logo=x&logoColor=white)](https://x.com/dropps07)
+
 <img src="https://komarev.com/ghpvc/?username=dropps07&color=00ff41&label=Profile+Visits&style=flat-square" alt="Profile Visits" width="160"/>
+
 </div>
 
-# Hi, I'm Ajey 👋
+---
 
-CS undergrad graduating in 2028, based in India. I build full-stack apps and AI projects — currently focused on MERN, Java / Spring Boot, and React + TypeScript.
+### About
 
-> Even Pirates Have Codes
+Full-stack developer focused on backend systems and AI projects — REST APIs, authentication, and data-heavy applications, plus fuzzy-logic and ML work. Most of my work is in TypeScript/JavaScript, Java, and Python, and I care about code that other people can actually read, test and build on. I do 4 DSA questions a day, then development work.
 
-## What I'm working on
+### Tech stack
 
-- **Daily DSA** — 4 questions a day, then development work
-- **forkcast** — an AI meal planner I'm building now (React + TypeScript frontend, Express + TypeScript backend)
-- **FuzzyABR** — a fuzzy-logic adaptive bitrate controller for video streaming, with a React player, Express server, and Python/Flask fuzzy engine, all in Docker
+<div align="center">
 
-## Featured projects
+![Tech stack](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,python,java,spring,mongodb,postgres,docker,git,github,vercel)
+
+</div>
+
+| Area | Technologies |
+| --- | --- |
+| Languages | JavaScript, TypeScript, Python, Java, Go |
+| Frontend | React, Next.js, Tailwind CSS, HTML/CSS |
+| Backend | Node.js, Express, Spring Boot, REST APIs, JWT authentication |
+| Data & tools | MongoDB, PostgreSQL, Kafka, Docker, Git/GitHub, Vercel |
+
+### Featured projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -24,15 +46,18 @@ CS undergrad graduating in 2028, based in India. I build full-stack apps and AI 
 | [tixets](https://github.com/dropps07/tixets) | Decentralized event creation and ticket booking on EduChain | TypeScript, smart contracts |
 | [outfit-ai](https://github.com/dropps07/outfit-ai) | AI wardrobe assistant that recommends personalized outfits | Full-stack, AI |
 
-## Skills
+### GitHub stats
 
-**Languages:** Java, JavaScript, TypeScript, Python, Go
-**Backend:** Node/Express, Spring Boot, PostgreSQL, Kafka
-**Frontend:** React, Next.js, Tailwind CSS
-**Other:** Docker, Git, DSA
+<div align="center">
 
-## Find me
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=dropps07&theme=dark&hide_border=true" />
 
-- Portfolio: https://npxajey.vercel.app
-- LinkedIn: https://www.linkedin.com/in/ajey-awasthi07
-- X: https://x.com/dropps07
+</div>
+
+---
+
+<div align="center">
+
+Open to collaborating on open-source projects and internships — reach me on [LinkedIn](https://www.linkedin.com/in/ajey-awasthi07/) or via my [portfolio](https://npxajey.vercel.app).
+
+</div>
