@@ -18,9 +18,6 @@ CS undergrad (class of 2028), contributing to open source and building an AI mea
 
 ---
 
-### Who I am
-
-I'm a full-stack developer who leans toward backend and AI work: REST APIs, auth, data-heavy apps, and some fuzzy-logic and ML experiments. Most of my code is TypeScript/JavaScript, Java and Python. I try to write code that other people can read, test and build on. Every day I solve 4 DSA problems on LeetCode, then spend the rest of my time building.
 
 ### What I work with
 
