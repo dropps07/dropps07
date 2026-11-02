@@ -18,12 +18,11 @@ CS undergrad (class of 2028), contributing to open source and building an AI mea
 
 ---
 
-
 ### What I work with
 
 <div align="center">
 
-![Tech stack](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,python,java,spring,mongodb,postgres,docker,git,github,vercel)
+![Tech stack](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,python,java,spring,mongodb,postgres,docker,aws,git,github,vercel)
 
 </div>
 
@@ -32,13 +31,11 @@ CS undergrad (class of 2028), contributing to open source and building an AI mea
 | Languages | JavaScript, TypeScript, Python, Java, Go |
 | Frontend | React, Next.js, Tailwind CSS, HTML/CSS |
 | Backend | Node.js, Express, Spring Boot, REST APIs, JWT auth |
-| Data & infra | MongoDB, PostgreSQL, Kafka, Docker, Git/GitHub, Vercel |
+| Data & infra | MongoDB, PostgreSQL, Kafka, Docker, AWS, Git/GitHub, Vercel |
 
 ### Activity
 
 <div align="center">
-
-<br/>
 
 <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/dropps07?theme=dark&font=Karla&ext=heatmap" />
 
