@@ -25,6 +25,12 @@ CS undergrad (class of 2028), contributing to open source and building.
 <img alt="Tech stack" src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,python,java,spring,mongodb,postgres,docker,aws,git,github,vercel&perline=8&theme=light" />
 
 </div>
+<br/>
+<p align="center">
+  <a href="/">
+    <img height="240em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dropps07&theme=swift">
+  </a>
+</p>
 
 | Category | Tools |
 | --- | --- |
@@ -33,15 +39,6 @@ CS undergrad (class of 2028), contributing to open source and building.
 | Backend | Node.js, Express, Spring Boot, REST APIs, JWT auth |
 | Data & infra | MongoDB, PostgreSQL, Kafka, Docker, AWS, Git/GitHub, Vercel |
 
-### Activity
-
-<div align="center">
-
-<img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/dropps07?theme=dark&font=Karla&ext=heatmap" />
-
-</div>
-
----
 
 <div align="center">
 
