@@ -32,6 +32,8 @@ CS undergrad (class of 2028), contributing to open source and building.
   </a>
 </p>
 
+<div align="center">
+  
 | Category | Tools |
 | --- | --- |
 | Languages | JavaScript, TypeScript, Python, Java, Go |
@@ -39,6 +41,7 @@ CS undergrad (class of 2028), contributing to open source and building.
 | Backend | Node.js, Express, Spring Boot, REST APIs, JWT auth |
 | Data & infra | MongoDB, PostgreSQL, Kafka, Docker, AWS, Git/GitHub, Vercel |
 
+</div>
 
 <div align="center">
 
