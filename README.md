@@ -1,11 +1,9 @@
-<div align="center">
+<div align="">
 
 # Ajey Awasthi
 
-**Full-Stack Developer · Open-Source Contributor**
-
-I build web apps and APIs with TypeScript, Node.js, Java and Python.
-CS undergrad (class of 2028), contributing to open source and building.
+I contribute to Open Source and love building worth something.
+ 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ajey--awasthi07-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=1f2937)](https://www.linkedin.com/in/ajey-awasthi07/)
 [![GitHub](https://img.shields.io/badge/GitHub-dropps07-24292f?style=flat&logo=github&logoColor=white&labelColor=1f2937)](https://github.com/dropps07)
@@ -20,30 +18,18 @@ CS undergrad (class of 2028), contributing to open source and building.
 
 ### What I work with
 
-<div align="center">
+<div align="">
 
-<img alt="Tech stack" src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,python,java,spring,mongodb,postgres,docker,aws,git,github,vercel&perline=8&theme=light" />
+<img alt="Tech stack" src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,python,java,spring,postgres,docker,aws,git,github,vercel&theme=light" />
 
 </div>
 <br/>
-<p align="center">
+<p align="">
   <a href="/">
     <img height="240em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dropps07&theme=swift">
   </a>
 </p>
-
-<div align="center">
-  
-| Category | Tools |
-| --- | --- |
-| Languages | JavaScript, TypeScript, Python, Java, Go |
-| Frontend | React, Next.js, Tailwind CSS, HTML/CSS |
-| Backend | Node.js, Express, Spring Boot, REST APIs, JWT auth |
-| Data & infra | MongoDB, PostgreSQL, Kafka, Docker, AWS, Git/GitHub, Vercel |
-
-</div>
-
-<div align="center">
+<div align="">
 
 Open to open-source collaboration and internships. Find me on [LinkedIn](https://www.linkedin.com/in/ajey-awasthi07/) or at my [portfolio](https://npxajey.vercel.app).
 
